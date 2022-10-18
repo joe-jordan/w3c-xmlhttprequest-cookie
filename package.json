@@ -1,8 +1,8 @@
 {
-    "name":        "xmlhttprequest-cookie",
-    "homepage":    "http://github.com/rse/node-xmlhttprequest-cookie",
+    "name":        "w3c-xmlhttprequest-cookie",
+    "homepage":    "http://github.com/joe-jordan/node-xmlhttprequest-cookie",
     "description": "Cookie-aware XMLHttpRequest Wrapper",
-    "version":     "0.9.9",
+    "version":     "0.9.10",
     "license":     "MIT",
     "author": {
         "name":    "Dr. Ralf S. Engelschall",
@@ -14,10 +14,10 @@
     ],
     "repository": {
         "type": "git",
-        "url":  "git://github.com/rse/node-xmlhttprequest-cookie.git"
+        "url":  "git://github.com/joe-jordan/node-xmlhttprequest-cookie.git"
     },
     "bugs": {
-        "url":  "http://github.com/rse/node-xmlhttprequest-cookie/issues"
+        "url":  "http://github.com/joe-jordan/node-xmlhttprequest-cookie/issues"
     },
     "main": "./xmlhttprequest-cookie.js",
     "devDependencies": {
@@ -27,7 +27,7 @@
         "grunt-contrib-clean":  "2.0.0"
     },
     "dependencies" : {
-        "xmlhttprequest":       ">=1.8.0"
+        "w3c-xmlhttprequest":       ">=3.0.4"
     },
     "engines": {
         "node":                 ">=4.0.0"

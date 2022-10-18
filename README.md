@@ -68,6 +68,7 @@ See Also
 --------
 
 - [Node-XMLHttpRequest Extension Module](https://github.com/driverdan/node-XMLHttpRequest)
+- [w3c-XMLHttpRequest Extension Module (better handling of non-unicode responses)](https://github.com/ykzts/node-XMLHttpRequest)
 - [XMLHttpRequest Wikipedia Information](http://en.wikipedia.org/wiki/XMLHttpRequest)
 - [XMLHttpRequest API Specification](http://www.w3.org/TR/XMLHttpRequest/)
 
