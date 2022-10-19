@@ -26,7 +26,7 @@
 
 /*  external requirements  */
 var Url = require("url");
-var XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
+var XMLHttpRequest = require("xmlhttprequest-ssl").XMLHttpRequest;
 
 /*  internal requirements  */
 var Cookie    = require("./xmlhttprequest-cookie-obj");
